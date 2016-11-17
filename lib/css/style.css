@@ -5,3 +5,13 @@
 .carousel {
   z-index: 5000;
 }
+
+.centerButton{
+  width: 15%;
+  display: block;
+  margin: 0 auto;
+}
+
+p{
+  font-size: 2em;
+}
