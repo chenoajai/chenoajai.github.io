@@ -1264,11 +1264,11 @@ h6 .small,
 }
 h1,
 .h1 {
-  font-size: 36px;
+  font-size: 90px;
 }
 h2,
 .h2 {
-  font-size: 30px;
+  font-size: 80px;
 }
 h3,
 .h3 {
@@ -4289,6 +4289,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar > .container .navbar-brand,
   .navbar > .container-fluid .navbar-brand {
     margin-left: -15px;
+    font-size: 60px;
   }
 }
 .navbar-toggle {
@@ -4362,6 +4363,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .navbar-nav > li > a {
     padding-top: 15px;
     padding-bottom: 15px;
+    font-size: 40px;
   }
 }
 .navbar-form {
@@ -4501,7 +4503,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
-  color: #5e5e5e;
+  color: #B20A80;
   background-color: transparent;
 }
 .navbar-default .navbar-text {
@@ -4512,7 +4514,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-  color: #333;
+  color: #B20A80;
   background-color: transparent;
 }
 .navbar-default .navbar-nav > .active > a,
