@@ -1,3 +1,7 @@
 #spacer1{
   height: 700px;
 }
+
+.carousel {
+  z-index: 5000;
+}
